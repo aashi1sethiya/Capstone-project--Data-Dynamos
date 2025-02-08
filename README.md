@@ -1,5 +1,5 @@
 As of 02/07/2025: 
-we have completed background research on CMS goals behind health equity index initiative.
+We have completed background research on CMS goals behind health equity index initiative.
 Measures and formula used in calculating HEI have been found.
 Individual star rating data has been found.
 we contacted resDAC.org to request any additional CMS data.
