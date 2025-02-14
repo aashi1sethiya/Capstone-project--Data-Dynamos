@@ -5,11 +5,11 @@
 This project analyzes **Medicare data** to evaluate key trends, cost-effectiveness, and health equity outcomes. The study leverages publicly available healthcare datasets to identify disparities, trends, and factors influencing Medicare expenditures and accessibility.
 
 Week 5 work
--Worked on methodology
--Approach for Identification/Cleaning/Curation
--Methods & Results
+- Worked on methodology
+- Approach for Identification/Cleaning/Curation
+- Methods & Results
 
--Formula:
+- Formula:
 
 
 ## Project Timeline  
