@@ -4,6 +4,14 @@
 ## Project Overview  
 This project analyzes **Medicare data** to evaluate key trends, cost-effectiveness, and health equity outcomes. The study leverages publicly available healthcare datasets to identify disparities, trends, and factors influencing Medicare expenditures and accessibility.
 
+Week 5 work
+Worked on methodology
+Approach for Identification/Cleaning/Curation
+Methods & Results
+
+Formula:
+
+
 ## Project Timeline  
 
 ### **Week 5: Univariate Analysis & Initial Setup**  
@@ -78,44 +86,37 @@ This project analyzes **Medicare data** to evaluate key trends, cost-effectivene
 - Begin preparing PowerPoint slides for the final presentation.  
 - Proofread and revise report content for clarity and coherence.  
 
-### **Week 17: Finalizing Report & Presentation**  
+### **Finalizing Report & Presentation**  
 - Complete all visualizations and integrate them into the report.  
 - Finalize the discussion and conclusion sections.  
 - Rehearse the presentation and collect feedback.  
 - Make necessary revisions based on feedback.  
 
-### **Week 18: Editing, Proofreading, & Final Touches**  
+### **Editing, Proofreading, & Final Touches**  
 - Proofread the final report for errors and consistency.  
 - Make last-minute refinements and updates.  
 - Finalize presentation slides and speaker notes.  
 - Double-check submission requirements and deadlines.  
 
-### **Week 19: Practice & Q&A Preparation**  
+### **Practice & Q&A Preparation**  
 - Conduct a dry run of the final presentation.  
 - Address final concerns and refine slides.  
 - Prepare responses for anticipated Q&A questions.  
 - Confirm logistics for the final presentation.  
 
-### **Week 20: Presentation & Retrospective**  
+### **Presentation & Retrospective**  
 - Deliver the final presentation to stakeholders.  
 - Submit the final report and all supporting materials.  
 - Conduct a project retrospective to reflect on key takeaways.  
 - Document lessons learned for future projects.  
 
-## 📌 How to Use This Repository  
-- **Data**: This repository contains data preprocessing scripts and exploratory analysis results.  
-- **Notebooks**: Google Colab notebooks document the analysis step by step.  
-- **Reports**: Summaries of findings and final insights are stored in the `reports/` folder.  
-- **Visualizations**: Key charts and dashboards for interpreting Medicare cost and outcome trends.  
+
 
 ## 🛠️ Tech Stack  
 - **Languages**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
 - **Tools**: Google Colab, Jupyter Notebooks, Power BI/Tableau for visualization  
 - **Data Sources**: Publicly available Medicare datasets  
 
-## 📅 Project Contributors  
-- **[Your Name]** - Data Analysis & Modeling  
-- **[Other Team Members]** - Domain Expertise, Visualization, Report Writing  
 
 ## 🚀 Future Enhancements  
 - Conduct deeper analysis on demographic disparities in Medicare spending.  
